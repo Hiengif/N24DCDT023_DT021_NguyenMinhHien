@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DT021 — TÌM KIẾM NỘI SUY SO VỚI TÌM KIẾM NHỊ PHÂN
 
 Học viện Công nghệ Bưu chính Viễn thông — Cơ sở tại TP. Hồ Chí Minh  
@@ -127,3 +128,4 @@ julia --startup-file=no scripts/trace_and_scales.jl
 1. Trên phân bố đều: Thuật toán nội suy đạt hiệu năng vượt trội $O(1)$ hoặc $O(\log \log n)$, nhanh hơn đáng kể so với nhị phân $O(\log n)$.
 2. Trên phân bố cực lệch: Thuật toán nội suy bị suy biến về $O(n)$ bước do mỗi lượt chỉ co đoạn được 1 phần tử.
 3. Thuật toán lai (Hybrid Search - Rubric C6) tự động phát hiện tình trạng co đoạn chậm để chuyển sang chia đôi nhị phân, đảm bảo cận trên không vượt quá $O(\log n)$.
+
